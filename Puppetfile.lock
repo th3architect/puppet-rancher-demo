@@ -13,7 +13,7 @@ FORGE
 GIT
   remote: git://github.com/nickschuch/puppet-rancher.git
   ref: master
-  sha: 74ed12327262186daae0bff623cdd9fa00758f3e
+  sha: 4b85c3551d592dcf09aca6286ba5b37f1ed4b5d8
   specs:
     nickschuch-rancher (0.0.1)
 
