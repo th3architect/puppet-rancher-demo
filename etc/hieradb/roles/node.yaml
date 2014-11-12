@@ -1,0 +1,5 @@
+classes:
+  - rancher::node
+
+rancher::node::management: "%{hiera('management')}"
+
