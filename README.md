@@ -27,3 +27,11 @@ bundle --path vendor/bundle
 bundle exec librarian-puppet install
 sudo -E bundle exec puppet apply --modulepath modules --hiera_config=etc/hiera.yaml site.pp
 ```
+
+### Vagrant
+
+An example can be spun up with the following command:
+
+```
+vagrant up
+```
