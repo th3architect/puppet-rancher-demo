@@ -35,3 +35,6 @@ An example can be spun up with the following command:
 ```
 vagrant up
 ```
+This starts:
+* 1 x Master
+* 2 x Nodes
